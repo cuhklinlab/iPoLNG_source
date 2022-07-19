@@ -1,4 +1,4 @@
-This is the repo to store the processed data used in the iPoLNG manuscript.
+This is the repo to store the processed data used in the iPoLNG manuscript. We also include a code example ``preprocess_example_code`` to preprocess the original data.
 
 Each data folder consists of the following files:
 
